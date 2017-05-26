@@ -9,3 +9,5 @@ My Open Source and Testing Cluster Course, Motor Vehicle (Assessment 3).
 -- James went on to create the layout and start programing the begginning and necessary parts of the program,
 
 We took a look at what had been created and continued on his base of the application to finish part 1 of the Assessment 3
+
+-- Part 1 will be uploaded with the next merge on 26/05/17
