@@ -11,3 +11,9 @@ My Open Source and Testing Cluster Course, Motor Vehicle (Assessment 3).
 We took a look at what had been created and continued on his base of the application to finish part 1 of the Assessment 3
 
 -- Part 1 will be uploaded with the next merge on 26/05/17
+
+
+Part 2 - Completed part 2
+-- Part 2 was completed a while ago by my group members which means that the overall requirments of the project has been completed, because I have been anavilable during the past few weeks I will be required to get my own testing results from the final program with Nick and James' help of course - credits to the both of them for managing to get it working so quickly.
+
+Testing for report is done and will be uploaded shortly with the report, as for inside testing this will need to be completed on the 16th with the help of my group members.
