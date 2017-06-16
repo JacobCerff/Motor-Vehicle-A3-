@@ -1,0 +1,16 @@
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\bin\Debug\UnitTest.dll
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\bin\Debug\UnitTest.pdb
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\bin\Debug\VehicleRental.exe
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\bin\Debug\VehicleRental.pdb
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\obj\Debug\UnitTest.dll
+E:\TAFE\2017 Semester 1\Cert IV Programming\Open Source and Testing\Assessments\Assessment 3\VehicleRental\UnitTest\obj\Debug\UnitTest.pdb
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\bin\Debug\UnitTest.dll
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\bin\Debug\UnitTest.pdb
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\bin\Debug\VehicleRental.exe
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\bin\Debug\VehicleRental.pdb
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\obj\Debug\UnitTest.dll
+E:\Cert IV - Programming\FriAM\Week 18\UnitTest\obj\Debug\UnitTest.pdb

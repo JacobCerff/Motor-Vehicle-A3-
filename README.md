@@ -17,3 +17,8 @@ Part 2 - Completed part 2
 -- Part 2 was completed a while ago by my group members which means that the overall requirments of the project has been completed, because I have been anavilable during the past few weeks I will be required to get my own testing results from the final program with Nick and James' help of course - credits to the both of them for managing to get it working so quickly.
 
 Testing for report is done and will be uploaded shortly with the report, as for inside testing this will need to be completed on the 16th with the help of my group members.
+
+
+Part 3 - Testing + Documentation
+-- The testing and documentation can be found in the report of the assessment, this is the end of the assessment and is now ready to hand in.
+-- A final merge shall be underway with the report, finished program and the testing through visual studio.
